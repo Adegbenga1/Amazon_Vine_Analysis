@@ -6,9 +6,16 @@ Some reviews were done as part  of the Vine program (paid) and there were review
 was not part of the Vine program (unpaid).
 
 # Results
+Customers_table DataFrame
 ![image](https://user-images.githubusercontent.com/70987568/137602951-249ef81e-9a44-4396-bda8-0908a2c77e08.png)
+
+Products_table DataFrame
 ![image](https://user-images.githubusercontent.com/70987568/137602956-cabbb25e-5157-42d0-8f11-36297792b3d5.png)
+
+Review_id_table DataFrame. 
 ![image](https://user-images.githubusercontent.com/70987568/137602961-b6f44c23-d0e4-47ba-8dac-3012dc2caea8.png)
+
+Vine_table. DataFrame
 ![image](https://user-images.githubusercontent.com/70987568/137602968-fa8a4334-7a24-467a-ad60-785eed62c6cf.png)
 
 •	Vine reviews = 3 
